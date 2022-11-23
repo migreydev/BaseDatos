@@ -5,7 +5,7 @@
 En este repositorio se almacenaran los **_boletines de ejercicios_** de base de datos, boletin 1 y boletin de iniciación (Modelo Entidad-Relacion)
 
 ## **2. Normalización**
-¿Qué es la Normalización de una Base de Datos?
+**¿Qué es la Normalización de una Base de Datos?**
 Se llama normalización al proceso de descomposición de tablas por el
 cual se convierten un conjunto de tablas en un diseño correctamente
 normalizado, es decir, sin anomalías y más eficaz. Permite que se
